@@ -9,8 +9,9 @@
           "password": "admin@123" 
         }
     ],
-
     "hotels" :  [],
+    "cars": [],
 
-    "cars": []
+   "recipes" : []
+
 }
